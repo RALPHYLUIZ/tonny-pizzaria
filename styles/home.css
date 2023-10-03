@@ -15,15 +15,18 @@
     padding-left: 80px;
 }
 
+.conteudo-container .texto{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 520px;
+
+}
 .conteudo-container h2{
     width: 558px;
-    height: 513px;
-    font-size: 64px;
+    font-size: 4rem;
     font-weight: 400;
     font-style: italic;
-    display: flex;
-    justify-content: center;
-    align-items: center ;
 }
 .conteudo-container div{
     display: flex;
@@ -31,6 +34,9 @@
     width: 900px;
 }
 
+.texto-laranja {
+color: var(--cor-primaria);
+}
 .destaque-container{
     height: 260px;
     display: flex;
