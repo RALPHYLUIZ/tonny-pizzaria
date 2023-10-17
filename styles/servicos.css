@@ -50,6 +50,6 @@
 
 .servico p{
     text-align: center;
-    text-shadow: 2px 2px 8px var(--cor-sombra);
+    text-shadow: 2px 2px 10px var(--cor-sombra);
 
 }
